@@ -1,0 +1,7 @@
+C:\Users\Arjun\source\repos\SemesterCalculator\SemesterCalculator\bin\Debug\SemesterCalculator.exe.config
+C:\Users\Arjun\source\repos\SemesterCalculator\SemesterCalculator\bin\Debug\SemesterCalculator.exe
+C:\Users\Arjun\source\repos\SemesterCalculator\SemesterCalculator\bin\Debug\SemesterCalculator.pdb
+C:\Users\Arjun\source\repos\SemesterCalculator\SemesterCalculator\obj\Debug\SemesterCalculator.csprojAssemblyReference.cache
+C:\Users\Arjun\source\repos\SemesterCalculator\SemesterCalculator\obj\Debug\SemesterCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Arjun\source\repos\SemesterCalculator\SemesterCalculator\obj\Debug\SemesterCalculator.exe
+C:\Users\Arjun\source\repos\SemesterCalculator\SemesterCalculator\obj\Debug\SemesterCalculator.pdb
